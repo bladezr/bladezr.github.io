@@ -48,10 +48,7 @@ img{
 	text-align: center;
 	font: italic;
 }
-span {
 
-color:red;
-}
 
 a:link{
 	color:#32CD32;
@@ -81,7 +78,8 @@ table tr:nth-child(even) {background-color: #87CEEB	;}
 
 }
 .txt{
-	color:#32CD32;
+	font-weight:bold;
+	color:red;
 }
 
 
