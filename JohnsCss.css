@@ -1,0 +1,88 @@
+/* myStyle.css */
+body {
+ background-color: orange;
+ background-image:url('bgPic.jpg');
+ color: #FFFFFF;
+ font: 115% sans-serif;
+
+}
+h1 {
+ color: #32CD32	;
+ float:left;
+ font:  125% fantasy;
+}
+h2 {
+ color: #32CD32	;
+ text-align: center;
+ font:  200% fantasy;
+}
+h3 {
+ color: #32CD32	;
+ float:right;
+ font:  125% fantasy;
+}
+h4 {
+ color: #32CD32	;
+ text-align: center;
+ font:  fantasy;
+}
+h5{
+	 color: #32CD32	;
+	 font: 110% fantasy;
+
+}
+p {
+ background-color: #FFFF33;
+ color: #333300;
+ text-align: left;
+ border: 3px groove #FFFF33;
+}
+img{
+	border-radius: 15px;
+	 display: block;
+     margin-left: auto;
+     margin-right: auto;
+	width:400px;
+}
+.pic{
+	text-align: center;
+	font: italic;
+}
+span {
+
+color:red;
+}
+
+a:link{
+	color:#32CD32;
+
+}
+a:hover{
+color:red;
+}
+
+.table1{
+	margin-left: 5%;
+	margin-top: -30%;
+  width: 30%;
+   text-align:left;
+ 
+}
+table tr:nth-child(even) {background-color: #87CEEB	;}
+
+.Hobbies{
+	margin-left:65%;
+	margin-top: -9%;
+	font:100% sans-serif;
+}
+.Education{
+	margin-left:5%;
+	margin-top:-15%;
+
+}
+.txt{
+	color:#32CD32;
+}
+
+
+	
