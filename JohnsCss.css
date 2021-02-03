@@ -24,7 +24,7 @@ h3 {
 h4 {
  color: #32CD32	;
  text-align: center;
- font:  fantasy;
+ font: 100% fantasy;
 }
 h5{
 	 color: #32CD32	;
@@ -35,7 +35,7 @@ p {
  background-color: #FFFF33;
  color: #333300;
  text-align: left;
- border: 3px groove #FFFF33;
+ border: 3px groove;
 }
 img{
 	border-radius: 15px;
